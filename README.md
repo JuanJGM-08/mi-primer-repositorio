@@ -21,3 +21,5 @@ preparándolos para ser incluidos en el próximo commit.
 
 git pull:
 Función: Descarga los cambios más recientes del repositorio remoto y los fusiona automáticamente con tu rama local.
+[GitHub y Git.pdf](https://github.com/user-attachments/files/19096686/GitHub.y.Git.pdf)
+[Presentation 1 1.pptx](https://github.com/user-attachments/files/19096687/Presentation.1.1.pptx)
